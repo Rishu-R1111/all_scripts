@@ -1,18 +1,4 @@
 ## Welcome to the myscript  v3.1
-<p align="center">
-<img src="https://i.imgur.com/awIplS6.jpg"/>
-<img src="https://i.imgur.com/pbq0DuE.jpg"/>
-<img src="https://i.imgur.com/QgTLKxR.jpg"/>
-<img src="https://i.imgur.com/oJIk2oG.jpg"/>
-<img src="https://i.imgur.com/icT4x55.jpg"/>
-<img src="https://i.imgur.com/sSf1JcI.jpg"/>
-<img src="https://i.imgur.com/MlDFWax.jpg"/>
-<img src="https://i.imgur.com/rbdUIQI.jpg"/>
-</p>
-A video Hackersploit made : https://www.youtube.com/watch?v=oBpo5sElrMY
-
-A video sstec made:         https://www.youtube.com/watch?v=gSO7c2MN7TY
-
 **For feature-recommendation , add it on the "Issues" tab. NOW!**
 
 **I AM NOT RESPONSIBLE HOW YOU USE THIS TOOL.BE LEGAL AND NOT STUPID.**
@@ -135,8 +121,8 @@ View your MAC faster
 
 ```
 cd
-git clone https://github.com/arismelachroinos/Rishu'sscript.git
-cd Rishu'sscript
+git clone https://github.com/Rishu-R1111/all_scripts.git
+cd all_scripts
 chmod +x install.sh
 ./install.sh
 ```
