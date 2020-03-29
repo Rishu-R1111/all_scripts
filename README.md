@@ -1,4 +1,4 @@
-## Welcome to myscript  v3.1
+## HELLO, I'm RISHU Welcome to myscript  v3.1
 **For feature-recommendation , add it on the "Issues" tab. NOW!**
 
 **I AM NOT RESPONSIBLE HOW YOU USE THIS TOOL.BE LEGAL AND NOT STUPID.**
