@@ -1,4 +1,4 @@
-## Welcome to the myscript  v2.1.4
+## Welcome to the myscript  v3.1
 <p align="center">
 <img src="https://i.imgur.com/awIplS6.jpg"/>
 <img src="https://i.imgur.com/pbq0DuE.jpg"/>
@@ -27,7 +27,7 @@ I actually made it for fun for me just to save some time, but i don't mind publi
 
 ### Features
 
-   ### NEW FEATURE: Custom keyboard shortcuts!! Launch any tool within lscript , with your own shortcuts!!! (type ks to set your shortcuts)
+   ### NEW FEATURE: Custom keyboard shortcuts!! Launch any tool within Rishu'sscript , with your own shortcuts!!! (type ks to set your shortcuts)
 	
 Enabling-Disabling interfaces faster
 Changing Mac faster
@@ -37,7 +37,7 @@ View your MAC faster
 	
 **TOOLS**
 
-	You can install whichever tool(s) you want from within lscript! 
+	You can install whichever tool(s) you want from within Rishu'sscript! 
 	Fluxion                         by Deltaxflux
 	WifiTe                          by derv82
 	Wifiphisher                     by George Chatzisofroniou
@@ -135,8 +135,8 @@ View your MAC faster
 
 ```
 cd
-git clone https://github.com/arismelachroinos/lscript.git
-cd lscript
+git clone https://github.com/arismelachroinos/Rishu'sscript.git
+cd Rishu'sscript
 chmod +x install.sh
 ./install.sh
 ```
@@ -150,13 +150,13 @@ open terminal
 type  "l"
 press enter
 ```
-**(Not even "lazy"!! Just "l"! The less you type , the better!)**
+**(Not even "Rscript"!! Just "l"! The less you type , the better!)**
 
 ### How to uninstall
 ``` 
-cd /root/lscript
+cd /root/Rishu'sscript
 ./uninstall.sh
-rmdir -r /root/lscript 
+rmdir -r /root/Rishu'sscript 
 ```
 
 ### How to update
