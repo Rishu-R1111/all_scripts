@@ -1,5 +1,15 @@
 ## HELLO, I'm RISHU.
 ## Welcome to myscript  v3.1
+
+
+-------------------------------------
+AI insource:Cortex
+------------------------------------
+   <p align="center">
+<img src="https://hackernoon.com/hn-images/1*KttGYdEfhQN7fVbF99dHXQ.jpeg" width="95%" height="auto">
+</p>
+
+
 **For feature-recommendation , add it on the "Issues" tab. NOW!**
 
 **I AM NOT RESPONSIBLE HOW YOU USE THIS TOOL.BE LEGAL AND NOT STUPID.**
