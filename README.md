@@ -53,10 +53,10 @@ FUD : Payload
 </p>
 
 -------------------------------------
- :
+XCTR : An information Gathering tools
 ------------------------------------
    <p align="center">
-<img src="" width="95%" height="auto">
+<img src="https://hackingpassion.com/wp-content/uploads/2020/03/XCTR-Hacking-Tools.png" width="95%" height="auto">
 </p>
 
 -------------------------------------
